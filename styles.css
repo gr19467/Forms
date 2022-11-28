@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(247,202,205);
+}
+
+.basic{
+    background-color: rgb(242, 156, 163,.5);
+    border: dashed rgb(222, 77, 134);
+    border-radius: 10px;
+    color: rgb(222, 77, 134);
+}
+
+.favs{
+    background-color: rgb(205, 190, 209);
+    border: dashed rgb(109, 89, 122);
+    border-radius: 10px;
+    color: rgb(109, 89, 122);
+}
+
+.misc{
+    background-color: rgb(168,224,255);
+    border: dashed rgb(8,157,217);
+    border-radius: 10px;
+    color: rgb(8,157,217);
+}
+
+label{
+    font-weight: bold;
+}
+
+fieldset{
+    margin-top: 2.5vh;
+    margin-bottom: 2.5vh;
+}
+
+input{
+    margin-bottom: 2vh;
+}
+
+.seasons{
+    margin-bottom: 1vh;
+    font-weight: normal;
+}
+
